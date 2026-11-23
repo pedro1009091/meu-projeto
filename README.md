@@ -1,3 +1,4 @@
 # Meu Projeto
 
-Esse projeto foi desenvolvido como atividade prática de git e github por linha de comando, com o objetivo de versionar arquivos e colaborar em dupla.
+Projeto de CLI em git feito por Pedro Sajous e Davi Farat.
+
